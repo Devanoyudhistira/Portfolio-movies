@@ -6,7 +6,7 @@ slide.forEach((elem, idx) => {
 });
 scrollbutton.addEventListener('click',() =>{
     window.scrollTo({
-  top: 1000,
+  top: 2000,
   left: 0,
   behavior: "smooth",
 });
